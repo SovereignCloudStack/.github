@@ -1,4 +1,4 @@
-![images/header.jpg](images/header.jpg)
+![profile/images/header.jpg](/profile/images/header.jpg)
 
 # Sovereign Cloud Stack
 
