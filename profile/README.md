@@ -6,8 +6,7 @@ Sovereign Cloud Stack (SCS) is a network of existing and future providers of sta
 
 ## Follow us
 
-You can find us on <a rel="me" href="https://twitter.com/scs_osballiance">Twitter</a>, <a rel="me" href="https://fosstodon.org/@sovereigncloudstack">Mastodon</a> and <a rel="me" href="https://www.linkedin.com/showcase/sovereigncloudstack">LinkedIn</a>.
-You can get in touch with the community on <a rel="me" href="https://matrix.to/#/!TiDqlLmEUaXqTemaLc:matrix.org?via=matrix.org">Matrix</a>. 
+You can follow us on <a rel="me" href="https://twitter.com/scs_osballiance">Twitter</a>, <a rel="me" href="https://fosstodon.org/@sovereigncloudstack">Mastodon</a> and <a rel="me" href="https://www.linkedin.com/showcase/sovereigncloudstack">LinkedIn</a> or reach out to the community on <a rel="me" href="https://matrix.to/#/!TiDqlLmEUaXqTemaLc:matrix.org?via=matrix.org">Matrix</a>. 
 
 ## Security Policy
 
