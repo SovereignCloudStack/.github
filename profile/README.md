@@ -15,6 +15,6 @@ Please contact the SCS security team at security[at]scs[dot]community to ask sec
 
 ## Contributing
 
-Please see '[How to contribute page](https://scs.community/contribute/)'.
-We appreciate contribution to strategy and implementation, please join our community — or just leave input on the github [issues](https://github.com/SovereignCloudStack/issues/issues) and PRs. Have a look at our [contributor guide](https://github.com/SovereignCloudStack/Docs/tree/main/Contributor-Docs). We also have defined a [Code of Conduct](https://github.com/SovereignCloudStack/Docs/blob/main/CODE-OF-CONDUCT.md) to document the expected behavior of contributors and how we deal with cases where individuals fail to meet the expectation.
+Please see our [How to contribute](https://scs.community/contribute/) page.
+We appreciate contribution to strategy and implementation. Please join our community — or just leave input on the github [issues](https://github.com/SovereignCloudStack/issues/issues) and PRs. We have a [public taskboard](https://github.com/orgs/SovereignCloudStack/projects/6). Have a look at our [contributor guide](https://github.com/SovereignCloudStack/Docs/tree/main/Contributor-Docs). We also have defined a [Code of Conduct](https://github.com/SovereignCloudStack/Docs/blob/main/CODE-OF-CONDUCT.md) to document the expected behavior of contributors and how we deal with cases where individuals fail to meet the expectation.
 
