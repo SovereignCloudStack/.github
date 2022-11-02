@@ -13,6 +13,8 @@ You can follow us on <a rel="me" href="https://twitter.com/scs_osballiance">Twit
 
 Please contact the SCS security team at security[at]scs[dot]community to ask security questions or report security issues. If you want to communicate with us encrypted, you can find our OpenPGP Key at https://scs.community/security.asc.
 
+We publish security advisories to our low-volume announcement list announce[at]lists[dot]scs[dot]comunity. Please subscribe on [here](http://lists.scs.community). Our security advisories are also published as [blog posts](https://scs.community/news/).
+
 ## Contributing
 
 Please see our [How to contribute](https://scs.community/contribute/) page.
