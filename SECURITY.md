@@ -4,6 +4,9 @@
 
 | Version | Supported          |
 | ------- | ------------------ |
+| R5   | :white_check_mark: |
+| R4   | :white_check_mark: |
+| R3   | :white_check_mark: |
 | R2   | :white_check_mark: |
 | R1   | :white_check_mark: |
 | R0   | :white_check_mark: |
