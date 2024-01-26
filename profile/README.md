@@ -7,7 +7,7 @@ Good starting points are the [docs](https://github.com/SovereignCloudStack/Docs)
 
 ## Follow us
 
-You can follow us on <a rel="me" href="https://twitter.com/scs_osballiance">Twitter</a>, <a rel="me" href="https://fosstodon.org/@sovereigncloudstack">Mastodon</a> and <a rel="me" href="https://www.linkedin.com/showcase/sovereigncloudstack">LinkedIn</a> or reach out to the community on <a rel="me" href="https://matrix.to/#/!TiDqlLmEUaXqTemaLc:matrix.org?via=matrix.org">Matrix</a>. 
+You can follow us on <a rel="me" href="https://fosstodon.org/@sovereigncloudstack">Mastodon</a> and <a rel="me" href="https://www.linkedin.com/showcase/sovereigncloudstack">LinkedIn</a> or reach out to the community on <a rel="me" href="https://matrix.to/#/!TiDqlLmEUaXqTemaLc:matrix.org?via=matrix.org">Matrix</a>.
 
 ## Security Policy
 
@@ -18,6 +18,8 @@ We publish security advisories to our low-volume announcement list announce[at]l
 ## Contributing
 
 Please see our [How to contribute](https://scs.community/contribute/) page.
+
 We appreciate contribution to strategy and implementation. Please join our community — or just leave input on the github [issues](https://github.com/SovereignCloudStack/issues/issues) and PRs. We have a [public taskboard](https://github.com/orgs/SovereignCloudStack/projects/6). Have a look at our [contributor guide](https://github.com/SovereignCloudStack/Docs/tree/main/Contributor-Docs). We also have defined a [Code of Conduct](https://github.com/SovereignCloudStack/.github/blob/main/CODE_OF_CONDUCT.md) to document the expected behavior of contributors and how we deal with cases where individuals fail to meet the expectation.
+With its direct leverage on the overall quality test automation and a high level of transparency about the status are very important to us. The status of our Continuous Integration can be viewed on the [SCS Zuul](https://zuul.scs.community/t/SCS/builds) and [OSISM Zuul](https://zuul.services.betacloud.xyz/t/osism/builds) status pages. We are happy if you draw our attention to special topics with tickets here.
 
 Please also look at the upstream projects from the CNCF and OIF and at the [OSISM project](https://github.com/OSISM/) which covers the SCS reference implementation for the Infra/IaaS layer.
