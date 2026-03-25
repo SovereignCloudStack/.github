@@ -11,9 +11,9 @@ You can follow us on <a rel="me" href="https://fosstodon.org/@sovereigncloudstac
 
 ## Security Policy
 
-Please contact the SCS security team at security[at]scs[dot]community to ask security questions or report security issues. If you want to communicate with us encrypted, you can find our OpenPGP Key at https://scs.community/security.asc.
+Please contact the SCS security team at security[at]scs[dot]community to ask security questions or report security issues.
 
-We publish security advisories to our low-volume announcement list announce[at]lists[dot]scs[dot]comunity. Please subscribe on [here](http://lists.scs.community). Our security advisories are also published as [blog posts](https://scs.community/security/) and as [RSS feed](https://scs.community/feed/security.xml).
+We publish security advisories to our low-volume announcement list announce[at]lists[dot]scs[dot]comunity. Please subscribe on [here](http://lists.scs.community). Our security advisories are also published as [blog posts](https://docs.scs.community/blog/).
 
 ## Contributing
 
