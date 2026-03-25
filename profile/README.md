@@ -22,4 +22,14 @@ Please see our [How to contribute](https://scs.community/contribute/) page.
 We appreciate contribution to strategy and implementation. Please join our community — or just leave input on the github [issues](https://github.com/SovereignCloudStack/issues/issues) and PRs. We have a [public taskboard](https://github.com/orgs/SovereignCloudStack/projects/6). Have a look at our [contributor guide](https://docs.scs.community/contributor-docs). We also have defined a [Code of Conduct](https://github.com/SovereignCloudStack/.github/blob/main/CODE_OF_CONDUCT.md) to document the expected behavior of contributors and how we deal with cases where individuals fail to meet the expectation.
 With its direct leverage on the overall quality test automation and a high level of transparency about the status are very important to us. The status of our Continuous Integration can be viewed on the [SCS Zuul](https://zuul.scs.community/t/SCS/builds) and [OSISM Zuul](https://zuul.services.osism.tech/t/osism/builds) status pages. We are happy if you draw our attention to special topics with tickets here.
 
-Please also look at the upstream projects from the CNCF and OIF and at the [OSISM project](https://github.com/OSISM/) which covers the SCS reference implementation for the Infra/IaaS layer.
+## Modular Open Source Ecosystem
+
+SCS is build on the shoulders of giants. Without the tremendous work of various open source communities SCS wouldn't be where it is today. What has started in the beginnings of the SCS funding project as "the reference implementation" already turned to the 'turn-key solution' in the last year of the funding project and has evolved to an ecosystem of Open Source Software.
+
+We invite you to take a look at the following projects that play a role in the SCS landscape:
+
+- [ARKO](https://github.com/dNationCloud/kubernetes-monitoring) - a monitoring stack, partially developed by dNation during the SCS funding project.
+- [ClusterStacks](https://github.com/SovereignCloudStack/cluster-stacks) and the [ClusterStackOperator](https://github.com/SovereignCloudStack/cluster-stack-operator)
+- [OSISM](https://github.com/OSISM/) the initial IaaS reference implementation as well as the various projects from OSISM, such as the [OpenStack Flavor Manager](https://github.com/osism/openstack-flavor-manager) and the [OpenStack Image Manager](https://github.com/osism/openstack-image-manager/)
+- [uStack](https://gitlab.com/uhurutec/stack/ustack) - uStack is a GitOps-based installer for OpenStack on Kubernetes using YAOOK.
+- [YAOOK](https://yaook.cloud) - Yaook is a distribution of Openstack on top of kubernetes.
