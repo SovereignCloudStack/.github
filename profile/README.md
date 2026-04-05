@@ -31,5 +31,5 @@ We invite you to take a look at the following projects that play a role in the S
 - [ARKO](https://github.com/dNationCloud/kubernetes-monitoring) - a monitoring stack, partially developed by dNation during the SCS funding project.
 - [ClusterStacks](https://github.com/SovereignCloudStack/cluster-stacks) and the [ClusterStackOperator](https://github.com/SovereignCloudStack/cluster-stack-operator)
 - [OSISM](https://github.com/OSISM/) the initial IaaS reference implementation as well as the various projects from OSISM, such as the [OpenStack Flavor Manager](https://github.com/osism/openstack-flavor-manager) and the [OpenStack Image Manager](https://github.com/osism/openstack-image-manager/)
-- [uStack](https://gitlab.com/uhurutec/stack/ustack) - uStack is a GitOps-based installer for OpenStack on Kubernetes using YAOOK.
+- [uStack](https://gitlab.com/uhurutec/stack/ustack) - uStack is a GitOps-based integration layer for OpenStack on Kubernetes using YAOOK, similar to OSISM with OpenStack Kolla-Ansible.
 - [YAOOK](https://yaook.cloud) - Yaook is a lifecycle management tool for OpenStack on top of Kubernetes.
